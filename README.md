@@ -1,1 +1,1 @@
-# Car-parking-system_LCD where we use arduino and lcd systems 
+Smart parking system using Arduino and Lcd display 
